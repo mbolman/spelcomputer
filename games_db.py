@@ -13,10 +13,6 @@ def take_input(max):
 
 def show_table():
   
-  
-  
-  # test for git
-  
     
 # Connect to database 'games'
 games_db = mysql.connector.connect(
