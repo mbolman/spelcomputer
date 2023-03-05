@@ -11,7 +11,8 @@ def take_input(max):
   return choice
 
 
-def show_table():
+# def show_table():
+  # pass
   
     
 # Connect to database 'games'
